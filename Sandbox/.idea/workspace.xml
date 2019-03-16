@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="402b92c7-d9b8-4b13-9295-029fbf79c28e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stqa/kbz/sandbox/MyFirstProgram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -33,7 +33,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="92" />
+          <entry key="JAVA" value="128" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -42,10 +42,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MyFirstProgram.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/stqa/kbz/sandbox/MyFirstProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -360,11 +360,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/MyFirstProgram1.java" />
         <option value="$PROJECT_DIR$/src/main/java/MyFirstProgram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/stqa/kbz/sandbox/MyFirstProgram.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="347" />
+    <option name="x" value="482" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -408,12 +410,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552703589041" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552704036004" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.kbz.sandbox" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -429,7 +437,7 @@
   </component>
   <component name="RunManager">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.kbz.sandbox.MyFirstProgram" />
       <module name="KbzArtifact_main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -437,7 +445,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyFirstProgram1" />
+        <item itemvalue="Application.MyFirstProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +463,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="847" y="79" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -463,7 +471,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25160944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35316265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -471,7 +479,7 @@
       <window_info anchor="bottom" id="Build" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33853006" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33853006" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -492,10 +500,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyFirstProgram.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/stqa/kbz/sandbox/MyFirstProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
